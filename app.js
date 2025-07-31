@@ -91,9 +91,9 @@ app.use((req,res,next)=>{
 
 
 
-// app.get("/",(req,res)=>{
-//     res.send("Hi,this is home page");
-// });
+app.get("/",(req,res)=>{
+    res.redirect("/listings");
+});
 
 // app.get("/testlisting",async(req,res)=>{
 //     let sampleListing=new listing({
