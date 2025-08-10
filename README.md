@@ -41,7 +41,6 @@
 ## 🌐 Live Demo
 
 🔗 [Visit StaySphere Live](https://staysphere-2vev.onrender.com)  
-📹 Demo Video: _Coming Soon_
 
 ---
 
