@@ -1,4 +1,4 @@
-# 🏡 StaySphere
+# 🏡 StaySphere  🏡 #
 
 **StaySphere** is a modern Airbnb-inspired web application that enables users to discover, list, and book vacation stays across various locations. Built with a robust tech stack and responsive UI, it delivers seamless functionality for both hosts and travelers.
 
